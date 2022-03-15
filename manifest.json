@@ -1,0 +1,117 @@
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@id": "https://data.getty.edu/museum/api/iiif/id:826/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "Amor Sacro e Amor Profano, 1515-1516, Vecellio Tiziano",
+    "description": "L’opera, probabilmente ceduta nel 1608 dal cardinale Paolo Emilio Sfondrati a Scipione Borghese, costituisce un vero e proprio enigma interpretativo. Secondo la critica, fu dipinta da Tiziano Vecellio intorno alla metà del secondo decennio del Cinquecento per il veneziano Niccolò Aurelio, il cui stemma appare sulla fontana assieme a quello della moglie Laura Bagarotto. La tela rappresenta due donne, ritratte ai lati di un antico sarcofago istoriato, su cui poggia un putto alato che con la mano rimesta l’acqua al suo interno. Questa figura, così come il soggetto del quadro, è fortemente connessa al tema dell’amore – qui espresso nella sua duplice natura, sacra e passionale – raffigurato allegoricamente dalle due figure femminili simbolo dell’Amor sacro e dell’Amor profano. Tale dualità è inoltre presente anche nel paesaggio riprodotto sullo sfondo, espressa sulla sinistra con una veduta montana e sulla destra con un villaggio lacustre. La ricchezza di tali simboli e di elementi iconografici ha spinto da sempre gli studiosi a cercare molteplici chiavi di lettura, fornendo nei secoli varie interpretazioni. Attualmente, si tende a privilegiare il significato matrimoniale del dipinto, ossia l’esaltazione delle qualità della perfetta sposa, qui raffigurata splendidamente vestita nella sua dignità pubblica, ricca di attributi nuziali consoni al suo livello sociale, e al tempo stesso nuda e ardente di vero amore, quale dovrà apparire al suo sposo nella sfera del privato. Amor Sacro e Amor Profano",
+    "metadata": 
+    [
+        {
+            "label": "Artist / Maker",
+            "value": "Vecellio Tiziano (Pieve di Cadore 1488-90 - Venezia 1576)"
+        },
+        {
+            "label": "Culture & Date",
+            "value": "'500"
+        },
+        {
+            "label": "Medium",
+            "value": "Oil on canvas"
+        },
+        {
+            "label": "Dimensions",
+            "value": "118 × 278 cm (46.46 × 109.45 in.)"
+        },
+        {
+            "label": "Object Number",
+            "value": "147"
+        },
+        {
+            "label": "Room",
+            "value": "<a href='https://galleriaborghese.beniculturali.it/il-museo/la-villa/sala-20-sala-%e2%80%8bdi-psiche/' target='_blank'>Sala 20 - Sala di Psiche<\/a>"
+        },
+        {
+            "label": "Place Created",
+            "value": "-"
+        },
+        {
+            "label": "Signed",
+            "value": "-"
+        },
+        {
+            "label": "Markings",
+            "value": "-"
+        },
+        {
+            "label": "Classification",
+            "value": "pittura"
+        },
+        {
+            "label": "Collection",
+            "value": "<a href=’https://galleriaborghese.beniculturali.it/' target='_blank'>Galleria Borghese<\/a>"
+        },
+        {
+            "label": "Rights Statement",
+            "value": "-"
+        },
+        {
+            "label": "Scheda",
+            "value": "Considerata l’assoluta mancanza di documenti relativi alla sua esecuzione e al suo ingresso nella raccolta Borghese, da sempre l’opera rappresenta un vero e proprio enigma da risolvere. Giunta a Roma in un momento imprecisato, sarebbe stata ceduta dal cardinale Paolo Emilio Sfondrato (o Sfondrati), nipote di papa Gregorio XIV, a Scipione Borghese il 20 luglio 1608, assieme ad altri settantuno dipinti di cui però non è stato ancora rintracciato l’elenco. Tale ipotesi, suggerita da Paola della Pergola nel 1955 e ad oggi adottata da quasi tutta la critica, rivela ancora dei punti deboli, a partire dal documento d’acquisto, rogato a Roma, che riferendosi ai settantadue quadri come opere ‘dei principali pittori di questa città’ (cfr. Orban 1920), sembra escludere qualsiasi collegamento con il dipinto veneziano. Le varie ipotesi circa la provenienza e la presenza dell’opera in collezione Borghese sono state debitamente discusse da Sara Staccioli (1995) che non esclude né l’arrivo del dipinto da Ferrara, in seguito alla devoluzione della città nel 1598, né che l’opera sia stata acquistata dopo la morte di Scipione avvenuta nel 1633. Di fatto, secondo la studiosa, è solo a partire dal 1648, anno della pubblicazione de Le maraviglie dell’arte di Carlo Ridolfi, che l’Amor sacro e l’Amor profano è segnalato senza alcun dubbio presso la raccolta Borghese, mentre il poema di Scipione Francucci (1613) e la visita al giardino e al palazzo Borghese di John Evelyn fanno sorgere ancora dei dubbi. Come spiegato dalla Staccioli (1995), se si leggono attentamente le rime del Francucci ci si accorge che la contrapposizione, solitamente citata tra “Beltà disornata” e “Beltà ornata”, è invece tra “Beltà disornata” e “Barbarica pompa”, espressione riferita tra l’altro alla Giuditta di Giovanni Baglione (inv. 15) e non al quadro del cadorino. Lo stesso dicasi del racconto di John Evelyn, datato 28 novembre 1644, in cui lo scrittore scrive di aver ammirato nella ‘Chamber of Nudities’ due Veneri di Tiziano, identificate da Wethey (1975) con le due donne dell’Amor sacro e profano. Se i dubbi e le supposizioni sull’arrivo e la presenza del dipinto in casa Borghese sono sostanzialmente numerosi, al contrario la critica è concorde nel ritenere che l’opera sia stata eseguita da Vecellio intorno alla metà del secondo decennio del Cinquecento, al termine della sua fase giovanile. Con ogni probabilità, infatti, il quadro sarebbe stato commissionato nel 1515 (secondo Lucco 2013 nel 1516) dal veneziano Niccolò Aurelio, segretario del Consiglio dei Dieci, in occasione del suo matrimonio con Laura Bagarotto, i cui stemmi compaiono rispettivamente sul fronte del sarcofago e sul fondo del bacile d’argento. Il riferimento a questa unione è espresso dalla fibbia e dalla coroncina di mirto, attributi dell’amore coniugale, indossati dalla fanciulla seduta a sinistra. Il fulcro centrale della composizione è costituito dall’evidente contrapposizione delle due figure femminili fisionomicamente simili: una vestita, in atto di guardare verso lo spettatore; l’altra nuda, che le si rivolge in atteggiamento di esortazione, ritratta con una lampada in mano, simbolo dell’ardore amoroso e attributo di Venere. Al centro, infine, appoggiato sul bordo del sarcofago, ornato con un fregio classico, appare Cupido, dio dell’amore, che con la mano rimesta l’acqua al suo interno. Alle sue spalle, si apre un paesaggio tipicamente veneto, abitato da uomini e animali, caratterizzato sulla sinistra da un borgo turrito e sulla destra da un villaggio che sorge su un lago. Sull’opera esistono diverse ipotesi interpretative, espressione del complesso ed ermetico ambiente culturale a cui Tiziano apparteneva, fortemente impregnato di cultura neoplatonica, diffusa nei circoli culturali veneziani e apprezzata dal cadorino grazie al legame con il poeta Pietro Bembo. In tal senso, la strada più autorevole è stata quella tracciata da Erwin Panofsky (1939) che interpretò Cupido come simbolo dell’unione tra cielo e terra, e le due figure femminili quali allegorie della Venere ‘celeste’ e della Venera ‘terrena’; contrariamente a quanto ipotizzato nel 1958 da Edgar Wind che associò la donna vestita alla Pulchritudo (la Bellezza) e quella nuda alla Voluptas (il Piacere). Secondo altre interpretazioni, il tema trattato rappresenterebbe Polìa e Venere, protagoniste del sogno di Polifilo raccontato nell’Hypnerotomachia di Francesco Colonna (Hourticq 1917); oppure Venere e Medea, le cui vicende sono narrate nell’Argonautica di Valerio Flacco (Wickhoff 1895). Italo Palmarini (1902), invece, fu il primo a tentare di identificare le due giovani donne con la protagonista della Donna allo specchio che, secondo lo studioso, rappresentava Laura Dianti, amante di Alfonso I d’Este, ritratta nella versione Borghese sopra la fonte d’Ardenna, sorgente d’amore cantata da Matteo Maria Boiardo nell’Orlando innamorato. Al momento, la critica tende a privilegiare il significato moraleggiante dell’opera, ossia l’esaltazione delle qualità della perfetta sposa, qui raffigurata splendidamente vestita nella sua dignità pubblica e al tempo stesso, nuda e ardente di vero amore per il proprio sposo."
+        },
+        {
+            "label": "Frame",
+            "value": "Cornice ottocentesca con fregio d’acanto e intrecci di nodi in campo scuro."
+        },
+        {
+            "label": "Provenance",
+            "value": "(?) Roma, cardinale Paolo Emilio Sfondrati, ante 1608 (Della Pergola 1955); (?) Roma, collezione Scipione Borghese, 1608; (?) Roma, collezione Scipione Borghese, 1613 (Francucci 1613); (?) Roma, collezione Borghese, 1644 (Wethey 1975); Roma, collezione Borghese 1648 (Ridolfi 1648); Inv. 1693, St. V, n. 2; Inv. 1700, St. V, n. 2; Inventario Fidecommissario 1833, p. 12; Acquisto dello Stato, 1902."
+        }
+    ],
+    "thumbnail": "https://data.getty.edu/museum/api/iiif/671108/full/600,472/0/default.jpg",
+    "viewDirection": "right-to-left",
+    "attribution": "Digital image courtesy of the Getty's <a href='http://www.getty.edu/about/opencontent.html' target='_blank'>Open Content Program<\/a>.",
+    "logo": "http://www.getty.edu/museum/media/graphics/web/logos/getty.png",
+    "within": "http://www.getty.edu/art/collection/",
+    "sequences": [
+        {
+            "@id": "https://data.getty.edu/museum/api/iiif/id:826/sequence/main",
+            "@type": "sc:Sequence",
+            "label": "Object",
+            "viewingDirection": "left-to-right",
+            "viewingHint": "paged",
+            "startCanvas": "https://data.getty.edu/museum/api/iiif/id:826/canvas/main",
+            "canvases": [
+                {
+                    "@id": "https://data.getty.edu/museum/api/iiif/id:826/canvas/main",
+                    "@type": "sc:Canvas",
+                    "label": "Main Image",
+                    "width": 1280,
+                    "height": 545,
+                    "images": [
+                        {
+                            "@id": "https://data.getty.edu/museum/api/iiif/id:826/annotation/main-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "resource": {
+                                "@id": "https://6012.cophilab-cloud.ilc.cnr.it/INV_147.jpg/full/full/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://6012.cophilab-cloud.ilc.cnr.it/INV_147.jpg",
+                                    "profile": "http://iiif.io/api/image/2/profiles/level0.json"
+                                },
+                                "width": 1280,
+                                "height": 545
+                            },
+                            "on": "https://data.getty.edu/museum/api/iiif/id:826/canvas/main"
+                        }
+                    ],
+                    "thumbnail": "https://data.getty.edu/museum/api/iiif/671108/full/600,472/0/default.jpg"
+                }
+            ]
+        }
+    ],
+    "license": "http://www.getty.edu/legal/copyright.html#oc",
+    "related": "http://www.getty.edu/art/collection/objects/826/vincent-van-gogh-irises-dutch-1889"
+}

@@ -1,0 +1,37 @@
+<!--ELEONORA-->
+<!DOCTYPE html>
+<html lang="en">
+<html>
+ <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Virtues & Vices</title>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bulma@0.9.1/css/bulma.min.css">
+    <script src="https://cdn.jsdelivr.net/npm/mirador@3.0.0/dist/mirador.min.js"></script>
+  </head>
+  <body>
+    <section class="section">
+      <div class="container";>
+        <div style="height:1000px;" id="my-mirador"></div>
+
+    <script type="text/javascript">
+    var mirador = Mirador.viewer({
+    "id": "my-mirador",
+    "manifests": {
+    "manifest.json" : {
+    "provider": "IIIF Tutorial University of Venice"
+     }
+    },
+  "windows": [
+    {
+      "loadedManifest": "manifest.json",
+      "canvasIndex": 0,
+      "thumbnailNavigationPosition": 'far-bottom'
+      }
+    ]
+  });
+  </script>
+    </div>
+   </section>
+</body>
+</html> 
